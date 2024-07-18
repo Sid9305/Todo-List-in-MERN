@@ -1,0 +1,19 @@
+npm install express mongodb nodemon cors dotenv mongoose
+
+mongodb setup
+1) create acc
+2) select project , create new , give name to project
+3) go to database
+4) build a cluster / database
+5) select free and keep default and click create
+
+6) it gives a username n password, save the password or changed it
+7)click finish
+8) click go to overview
+9) select compass
+
+10) install compass and then select i have mongo compass
+11) copy the url
+12) put the url in env
+
+
